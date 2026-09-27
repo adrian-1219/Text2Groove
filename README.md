@@ -51,7 +51,7 @@ The main architecture of the model is a Conditional Variational Autoencoder. Thi
 
 ## Further Details
 
-This project began as my Sound and Music Computing MSc dissertation at Queen Mary University of London. As such, further details on the motivation, methodology and limitations can be found in Text2Groove_Dissertation_Adrian_Lam.pdf. 
+This project began as my Sound and Music Computing MSc dissertation at Queen Mary University of London. As such, further details on the motivation, methodology and limitations can be found in the full [dissertation paper](Text2Groove_Dissertation_Adrian_Lam.pdf). 
 
 ## Contact
 Please feel free to contact me if you have any questions about the project!
