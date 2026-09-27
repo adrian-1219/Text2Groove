@@ -3,7 +3,7 @@ Text2Groove is a Text-guided MIDI humanization system that transforms quantized 
 
 This work will be presented at ISMIR 2026 as a Late-Breaking Demo.
 
-![image](Assets/Text2Groove_IO.png)
+![image](Assets/text2groove_diagram.png)
 
 ## Dependencies
 This repo is written in Python 3.12 with PyTorch as the deep learning framework. To install the required python packages, run the following
@@ -47,7 +47,7 @@ The script does the following:
 The main architecture of the model is a Conditional Variational Autoencoder. This was chosen because the same score and the same description can be performed in many slightly different ways, so we wanted the model to be able to generate variations as well, rather than always outputting one deterministic result. During training, the encoder takes the hit pattern, timing offsets, velocities, and conditioning, and outputs the mean and log variance of the latent distribution, which we then use to sample a latent vector z using the reparameterization trick. The decoder receives hit pattern, conditioning and z and predicts the humanized offsets velocities. At inference time, we sample z from a standard normal distribution, which means we can generate different humanized performances from the same drum pattern and prompt.
 
 
-![image](Assets/text2groove.drawio_2.png)
+![image](Assets/text2groove_architecture.png)
 
 ## Further Details
 
