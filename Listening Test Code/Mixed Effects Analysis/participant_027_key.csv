@@ -1,0 +1,49 @@
+page_number,page_id,pattern_id,prompt_id,prompt_text,stimulus_id,method,genre,feel,dynamic,filename
+1,trial_01,15,277,"Give this a rock groove with delayed offbeats, keep the intensity balanced.",audio_1,nearest_neighbour,rock,swung,medium,pattern_15_nearest_neighbour_rock_swung_medium.mp3
+1,trial_01,15,277,"Give this a rock groove with delayed offbeats, keep the intensity balanced.",audio_2,quantized,rock,swung,medium,pattern_15_source_quantized.mp3
+1,trial_01,15,277,"Give this a rock groove with delayed offbeats, keep the intensity balanced.",audio_3,proposed,rock,swung,medium,"pattern_15_115.0bpm_prompt_Give_this_a_rock_groove_with_delayed_offbeats,_keep_the_intensity_balanced..mp3"
+1,trial_01,15,277,"Give this a rock groove with delayed offbeats, keep the intensity balanced.",audio_4,baseline,rock,swung,medium,pattern_15_source_quantized_rock_swung_medium.mp3
+2,trial_02,15,561,"Make this sound like jazz with swing, play it loud.",audio_1,proposed,jazz,swung,loud,"pattern_15_115.0bpm_prompt_Make_this_sound_like_jazz_with_swing,_play_it_loud..mp3"
+2,trial_02,15,561,"Make this sound like jazz with swing, play it loud.",audio_2,nearest_neighbour,jazz,swung,loud,pattern_15_nearest_neighbour_jazz_swung_loud.mp3
+2,trial_02,15,561,"Make this sound like jazz with swing, play it loud.",audio_3,quantized,jazz,swung,loud,pattern_15_source_quantized.mp3
+2,trial_02,15,561,"Make this sound like jazz with swing, play it loud.",audio_4,baseline,jazz,swung,loud,pattern_15_source_quantized_jazz_swung_loud.mp3
+3,trial_03,15,628,"Give this a jazz groove with a straight pocket, use strong dynamics.",audio_1,nearest_neighbour,jazz,tight,loud,pattern_15_nearest_neighbour_jazz_tight_loud.mp3
+3,trial_03,15,628,"Give this a jazz groove with a straight pocket, use strong dynamics.",audio_2,baseline,jazz,tight,loud,pattern_15_source_quantized_jazz_tight_loud.mp3
+3,trial_03,15,628,"Give this a jazz groove with a straight pocket, use strong dynamics.",audio_3,proposed,jazz,tight,loud,"pattern_15_115.0bpm_prompt_Give_this_a_jazz_groove_with_a_straight_pocket,_use_strong_dynamics..mp3"
+3,trial_03,15,628,"Give this a jazz groove with a straight pocket, use strong dynamics.",audio_4,quantized,jazz,tight,loud,pattern_15_source_quantized.mp3
+4,trial_04,1,659,"Humanize this as jazz with a relaxed pocket, keep the intensity low.",audio_1,proposed,jazz,loose,soft,"pattern_1_81.0bpm_prompt_Humanize_this_as_jazz_with_a_relaxed_pocket,_keep_the_intensity_low..mp3"
+4,trial_04,1,659,"Humanize this as jazz with a relaxed pocket, keep the intensity low.",audio_2,nearest_neighbour,jazz,loose,soft,pattern_1_nearest_neighbour_jazz_loose_soft.mp3
+4,trial_04,1,659,"Humanize this as jazz with a relaxed pocket, keep the intensity low.",audio_3,quantized,jazz,loose,soft,pattern_1_source_quantized.mp3
+4,trial_04,1,659,"Humanize this as jazz with a relaxed pocket, keep the intensity low.",audio_4,baseline,jazz,loose,soft,pattern_1_source_quantized_jazz_loose_soft.mp3
+5,trial_05,1,827,"Humanize this as hiphop with a straight pocket, keep the intensity low.",audio_1,baseline,hiphop,tight,soft,pattern_1_source_quantized_hiphop_tight_soft.mp3
+5,trial_05,1,827,"Humanize this as hiphop with a straight pocket, keep the intensity low.",audio_2,nearest_neighbour,hiphop,tight,soft,pattern_1_nearest_neighbour_hiphop_tight_soft.mp3
+5,trial_05,1,827,"Humanize this as hiphop with a straight pocket, keep the intensity low.",audio_3,quantized,hiphop,tight,soft,pattern_1_source_quantized.mp3
+5,trial_05,1,827,"Humanize this as hiphop with a straight pocket, keep the intensity low.",audio_4,proposed,hiphop,tight,soft,"pattern_1_81.0bpm_prompt_Humanize_this_as_hiphop_with_a_straight_pocket,_keep_the_intensity_low..mp3"
+6,trial_06,1,212,"Make this sound like funk with laid back timing, play with medium strength.",audio_1,quantized,funk,loose,medium,pattern_1_source_quantized.mp3
+6,trial_06,1,212,"Make this sound like funk with laid back timing, play with medium strength.",audio_2,proposed,funk,loose,medium,"pattern_1_81.0bpm_prompt_Make_this_sound_like_funk_with_laid_back_timing,_play_with_medium_strength..mp3"
+6,trial_06,1,212,"Make this sound like funk with laid back timing, play with medium strength.",audio_3,baseline,funk,loose,medium,pattern_1_source_quantized_funk_loose_medium.mp3
+6,trial_06,1,212,"Make this sound like funk with laid back timing, play with medium strength.",audio_4,nearest_neighbour,funk,loose,medium,pattern_1_nearest_neighbour_funk_loose_medium.mp3
+7,trial_07,14,472,"Humanize this as rock with laid back timing, use strong dynamics.",audio_1,quantized,rock,loose,loud,pattern_14_source_quantized.mp3
+7,trial_07,14,472,"Humanize this as rock with laid back timing, use strong dynamics.",audio_2,nearest_neighbour,rock,loose,loud,pattern_14_nearest_neighbour_rock_loose_loud.mp3
+7,trial_07,14,472,"Humanize this as rock with laid back timing, use strong dynamics.",audio_3,proposed,rock,loose,loud,"pattern_14_110.0bpm_prompt_Humanize_this_as_rock_with_laid_back_timing,_use_strong_dynamics..mp3"
+7,trial_07,14,472,"Humanize this as rock with laid back timing, use strong dynamics.",audio_4,baseline,rock,loose,loud,pattern_14_source_quantized_rock_loose_loud.mp3
+8,trial_08,14,341,"Humanize this as rock with a straight pocket, keep the intensity low.",audio_1,baseline,rock,tight,soft,pattern_14_source_quantized_rock_tight_soft.mp3
+8,trial_08,14,341,"Humanize this as rock with a straight pocket, keep the intensity low.",audio_2,proposed,rock,tight,soft,"pattern_14_110.0bpm_prompt_Humanize_this_as_rock_with_a_straight_pocket,_keep_the_intensity_low..mp3"
+8,trial_08,14,341,"Humanize this as rock with a straight pocket, keep the intensity low.",audio_3,quantized,rock,tight,soft,pattern_14_source_quantized.mp3
+8,trial_08,14,341,"Humanize this as rock with a straight pocket, keep the intensity low.",audio_4,nearest_neighbour,rock,tight,soft,pattern_14_nearest_neighbour_rock_tight_soft.mp3
+9,trial_09,14,24,"Make this sound like funk with delayed offbeats, play it softly.",audio_1,baseline,funk,swung,soft,pattern_14_source_quantized_funk_swung_soft.mp3
+9,trial_09,14,24,"Make this sound like funk with delayed offbeats, play it softly.",audio_2,proposed,funk,swung,soft,"pattern_14_110.0bpm_prompt_Make_this_sound_like_funk_with_delayed_offbeats,_play_it_softly..mp3"
+9,trial_09,14,24,"Make this sound like funk with delayed offbeats, play it softly.",audio_3,nearest_neighbour,funk,swung,soft,pattern_14_nearest_neighbour_funk_swung_soft.mp3
+9,trial_09,14,24,"Make this sound like funk with delayed offbeats, play it softly.",audio_4,quantized,funk,swung,soft,pattern_14_source_quantized.mp3
+10,trial_10,11,423,"Make this sound like rock with a relaxed pocket, play it softly.",audio_1,quantized,rock,loose,soft,pattern_11_source_quantized.mp3
+10,trial_10,11,423,"Make this sound like rock with a relaxed pocket, play it softly.",audio_2,baseline,rock,loose,soft,pattern_11_source_quantized_rock_loose_soft.mp3
+10,trial_10,11,423,"Make this sound like rock with a relaxed pocket, play it softly.",audio_3,nearest_neighbour,rock,loose,soft,pattern_11_nearest_neighbour_rock_loose_soft.mp3
+10,trial_10,11,423,"Make this sound like rock with a relaxed pocket, play it softly.",audio_4,proposed,rock,loose,soft,"pattern_11_102.0bpm_prompt_Make_this_sound_like_rock_with_a_relaxed_pocket,_play_it_softly..mp3"
+11,trial_11,11,16,"Humanize this as funk with delayed offbeats, use gentle dynamics.",audio_1,baseline,funk,swung,soft,pattern_11_source_quantized_funk_swung_soft.mp3
+11,trial_11,11,16,"Humanize this as funk with delayed offbeats, use gentle dynamics.",audio_2,quantized,funk,swung,soft,pattern_11_source_quantized.mp3
+11,trial_11,11,16,"Humanize this as funk with delayed offbeats, use gentle dynamics.",audio_3,nearest_neighbour,funk,swung,soft,pattern_11_nearest_neighbour_funk_swung_soft.mp3
+11,trial_11,11,16,"Humanize this as funk with delayed offbeats, use gentle dynamics.",audio_4,proposed,funk,swung,soft,"pattern_11_102.0bpm_prompt_Humanize_this_as_funk_with_delayed_offbeats,_use_gentle_dynamics..mp3"
+12,trial_12,11,166,"Give this a funk groove with laid back timing, use gentle dynamics.",audio_1,nearest_neighbour,funk,loose,soft,pattern_11_nearest_neighbour_funk_loose_soft.mp3
+12,trial_12,11,166,"Give this a funk groove with laid back timing, use gentle dynamics.",audio_2,baseline,funk,loose,soft,pattern_11_source_quantized_funk_loose_soft.mp3
+12,trial_12,11,166,"Give this a funk groove with laid back timing, use gentle dynamics.",audio_3,quantized,funk,loose,soft,pattern_11_source_quantized.mp3
+12,trial_12,11,166,"Give this a funk groove with laid back timing, use gentle dynamics.",audio_4,proposed,funk,loose,soft,"pattern_11_102.0bpm_prompt_Give_this_a_funk_groove_with_laid_back_timing,_use_gentle_dynamics..mp3"

@@ -1,0 +1,17 @@
+outcome,specification,component,variance,sd
+prompt_match,base,participant,205.93261219180891,14.35035233685253
+prompt_match,base,pattern,5.264796715111842,2.2945144835262736
+prompt_match,method_by_genre,participant,206.08764254073233,14.355752942313138
+prompt_match,method_by_genre,pattern,5.602620774359098,2.3669855881181654
+prompt_match,method_by_feel,participant,206.12444309351608,14.357034620474943
+prompt_match,method_by_feel,pattern,5.686840854987345,2.384709805193778
+prompt_match,method_by_dynamic,participant,206.21710528648654,14.360261323753358
+prompt_match,method_by_dynamic,pattern,5.908964488751809,2.430836170693494
+human_likeness,base,participant,201.46376005212815,14.1937930114585
+human_likeness,base,pattern,5.949678890323381e-07,0.0007713416162974341
+human_likeness,method_by_genre,participant,201.6638688406949,14.200840427266792
+human_likeness,method_by_genre,pattern,1.05205143133801e-06,0.0010256955841466853
+human_likeness,method_by_feel,participant,201.65906577628024,14.200671314282301
+human_likeness,method_by_feel,pattern,5.684150277558735e-07,0.0007539330393051319
+human_likeness,method_by_dynamic,participant,201.76153706658405,14.204278829514157
+human_likeness,method_by_dynamic,pattern,1.7018065099465754e-07,0.00041252957590293756

@@ -1,0 +1,49 @@
+page_number,page_id,pattern_id,prompt_id,prompt_text,stimulus_id,method,genre,feel,dynamic,filename
+1,trial_01,3,891,"Give this a hiphop groove with a relaxed pocket, play it softly.",audio_1,quantized,hiphop,loose,soft,pattern_3_source_quantized.mp3
+1,trial_01,3,891,"Give this a hiphop groove with a relaxed pocket, play it softly.",audio_2,proposed,hiphop,loose,soft,"pattern_3_100.0bpm_prompt_Give_this_a_hiphop_groove_with_a_relaxed_pocket,_play_it_softly..mp3"
+1,trial_01,3,891,"Give this a hiphop groove with a relaxed pocket, play it softly.",audio_3,baseline,hiphop,loose,soft,pattern_3_source_quantized_hiphop_loose_soft.mp3
+1,trial_01,3,891,"Give this a hiphop groove with a relaxed pocket, play it softly.",audio_4,nearest_neighbour,hiphop,loose,soft,pattern_3_nearest_neighbour_hiphop_loose_soft.mp3
+2,trial_02,3,552,"Humanize this as jazz with swing, play it loud.",audio_1,quantized,jazz,swung,loud,pattern_3_source_quantized.mp3
+2,trial_02,3,552,"Humanize this as jazz with swing, play it loud.",audio_2,nearest_neighbour,jazz,swung,loud,pattern_3_nearest_neighbour_jazz_swung_loud.mp3
+2,trial_02,3,552,"Humanize this as jazz with swing, play it loud.",audio_3,baseline,jazz,swung,loud,pattern_3_source_quantized_jazz_swung_loud.mp3
+2,trial_02,3,552,"Humanize this as jazz with swing, play it loud.",audio_4,proposed,jazz,swung,loud,"pattern_3_100.0bpm_prompt_Humanize_this_as_jazz_with_swing,_play_it_loud..mp3"
+3,trial_03,3,724,"Make this sound like jazz with laid back timing, use strong dynamics.",audio_1,baseline,jazz,loose,loud,pattern_3_source_quantized_jazz_loose_loud.mp3
+3,trial_03,3,724,"Make this sound like jazz with laid back timing, use strong dynamics.",audio_2,quantized,jazz,loose,loud,pattern_3_source_quantized.mp3
+3,trial_03,3,724,"Make this sound like jazz with laid back timing, use strong dynamics.",audio_3,proposed,jazz,loose,loud,"pattern_3_100.0bpm_prompt_Make_this_sound_like_jazz_with_laid_back_timing,_use_strong_dynamics..mp3"
+3,trial_03,3,724,"Make this sound like jazz with laid back timing, use strong dynamics.",audio_4,nearest_neighbour,jazz,loose,loud,pattern_3_nearest_neighbour_jazz_loose_loud.mp3
+4,trial_04,13,831,"Make this sound like hiphop locked to the grid, play it softly.",audio_1,nearest_neighbour,hiphop,tight,soft,pattern_13_nearest_neighbour_hiphop_tight_soft.mp3
+4,trial_04,13,831,"Make this sound like hiphop locked to the grid, play it softly.",audio_2,proposed,hiphop,tight,soft,"pattern_13_126.0bpm_prompt_Make_this_sound_like_hiphop_locked_to_the_grid,_play_it_softly..mp3"
+4,trial_04,13,831,"Make this sound like hiphop locked to the grid, play it softly.",audio_3,quantized,hiphop,tight,soft,pattern_13_source_quantized.mp3
+4,trial_04,13,831,"Make this sound like hiphop locked to the grid, play it softly.",audio_4,baseline,hiphop,tight,soft,pattern_13_source_quantized_hiphop_tight_soft.mp3
+5,trial_05,13,608,"Humanize this as jazz locked to the grid, play with medium strength.",audio_1,quantized,jazz,tight,medium,pattern_13_source_quantized.mp3
+5,trial_05,13,608,"Humanize this as jazz locked to the grid, play with medium strength.",audio_2,baseline,jazz,tight,medium,pattern_13_source_quantized_jazz_tight_medium.mp3
+5,trial_05,13,608,"Humanize this as jazz locked to the grid, play with medium strength.",audio_3,proposed,jazz,tight,medium,"pattern_13_126.0bpm_prompt_Humanize_this_as_jazz_locked_to_the_grid,_play_with_medium_strength..mp3"
+5,trial_05,13,608,"Humanize this as jazz locked to the grid, play with medium strength.",audio_4,nearest_neighbour,jazz,tight,medium,pattern_13_nearest_neighbour_jazz_tight_medium.mp3
+6,trial_06,13,502,"Humanize this as jazz with delayed offbeats, use gentle dynamics.",audio_1,nearest_neighbour,jazz,swung,soft,pattern_13_nearest_neighbour_jazz_swung_soft.mp3
+6,trial_06,13,502,"Humanize this as jazz with delayed offbeats, use gentle dynamics.",audio_2,quantized,jazz,swung,soft,pattern_13_source_quantized.mp3
+6,trial_06,13,502,"Humanize this as jazz with delayed offbeats, use gentle dynamics.",audio_3,baseline,jazz,swung,soft,pattern_13_source_quantized_jazz_swung_soft.mp3
+6,trial_06,13,502,"Humanize this as jazz with delayed offbeats, use gentle dynamics.",audio_4,proposed,jazz,swung,soft,"pattern_13_126.0bpm_prompt_Humanize_this_as_jazz_with_delayed_offbeats,_use_gentle_dynamics..mp3"
+7,trial_07,16,62,"Give this a funk groove with delayed offbeats, keep the intensity high.",audio_1,proposed,funk,swung,loud,"pattern_16_120.0bpm_prompt_Give_this_a_funk_groove_with_delayed_offbeats,_keep_the_intensity_high..mp3"
+7,trial_07,16,62,"Give this a funk groove with delayed offbeats, keep the intensity high.",audio_2,quantized,funk,swung,loud,pattern_16_source_quantized.mp3
+7,trial_07,16,62,"Give this a funk groove with delayed offbeats, keep the intensity high.",audio_3,baseline,funk,swung,loud,pattern_16_source_quantized_funk_swung_loud.mp3
+7,trial_07,16,62,"Give this a funk groove with delayed offbeats, keep the intensity high.",audio_4,nearest_neighbour,funk,swung,loud,pattern_16_nearest_neighbour_funk_swung_loud.mp3
+8,trial_08,16,449,"Humanize this as rock with loose timing variation, play with medium strength.",audio_1,quantized,rock,loose,medium,pattern_16_source_quantized.mp3
+8,trial_08,16,449,"Humanize this as rock with loose timing variation, play with medium strength.",audio_2,proposed,rock,loose,medium,"pattern_16_120.0bpm_prompt_Humanize_this_as_rock_with_loose_timing_variation,_play_with_medium_strength..mp3"
+8,trial_08,16,449,"Humanize this as rock with loose timing variation, play with medium strength.",audio_3,baseline,rock,loose,medium,pattern_16_source_quantized_rock_loose_medium.mp3
+8,trial_08,16,449,"Humanize this as rock with loose timing variation, play with medium strength.",audio_4,nearest_neighbour,rock,loose,medium,pattern_16_nearest_neighbour_rock_loose_medium.mp3
+9,trial_09,16,42,"Humanize this as funk with delayed offbeats, use moderate dynamics.",audio_1,quantized,funk,swung,medium,pattern_16_source_quantized.mp3
+9,trial_09,16,42,"Humanize this as funk with delayed offbeats, use moderate dynamics.",audio_2,baseline,funk,swung,medium,pattern_16_source_quantized_funk_swung_medium.mp3
+9,trial_09,16,42,"Humanize this as funk with delayed offbeats, use moderate dynamics.",audio_3,proposed,funk,swung,medium,"pattern_16_120.0bpm_prompt_Humanize_this_as_funk_with_delayed_offbeats,_use_moderate_dynamics..mp3"
+9,trial_09,16,42,"Humanize this as funk with delayed offbeats, use moderate dynamics.",audio_4,nearest_neighbour,funk,swung,medium,pattern_16_nearest_neighbour_funk_swung_medium.mp3
+10,trial_10,9,68,"Humanize this as funk with swing, keep the intensity high.",audio_1,baseline,funk,swung,loud,pattern_9_source_quantized_funk_swung_loud.mp3
+10,trial_10,9,68,"Humanize this as funk with swing, keep the intensity high.",audio_2,nearest_neighbour,funk,swung,loud,pattern_9_nearest_neighbour_funk_swung_loud.mp3
+10,trial_10,9,68,"Humanize this as funk with swing, keep the intensity high.",audio_3,quantized,funk,swung,loud,pattern_9_source_quantized.mp3
+10,trial_10,9,68,"Humanize this as funk with swing, keep the intensity high.",audio_4,proposed,funk,swung,loud,"pattern_9_110.0bpm_prompt_Humanize_this_as_funk_with_swing,_keep_the_intensity_high..mp3"
+11,trial_11,9,426,"Make this sound like rock with laid back timing, play it softly.",audio_1,baseline,rock,loose,soft,pattern_9_source_quantized_rock_loose_soft.mp3
+11,trial_11,9,426,"Make this sound like rock with laid back timing, play it softly.",audio_2,proposed,rock,loose,soft,"pattern_9_110.0bpm_prompt_Make_this_sound_like_rock_with_laid_back_timing,_play_it_softly..mp3"
+11,trial_11,9,426,"Make this sound like rock with laid back timing, play it softly.",audio_3,nearest_neighbour,rock,loose,soft,pattern_9_nearest_neighbour_rock_loose_soft.mp3
+11,trial_11,9,426,"Make this sound like rock with laid back timing, play it softly.",audio_4,quantized,rock,loose,soft,pattern_9_source_quantized.mp3
+12,trial_12,9,737,"Give this a hiphop groove with delayed offbeats, keep the intensity low.",audio_1,nearest_neighbour,hiphop,swung,soft,pattern_9_nearest_neighbour_hiphop_swung_soft.mp3
+12,trial_12,9,737,"Give this a hiphop groove with delayed offbeats, keep the intensity low.",audio_2,quantized,hiphop,swung,soft,pattern_9_source_quantized.mp3
+12,trial_12,9,737,"Give this a hiphop groove with delayed offbeats, keep the intensity low.",audio_3,baseline,hiphop,swung,soft,pattern_9_source_quantized_hiphop_swung_soft.mp3
+12,trial_12,9,737,"Give this a hiphop groove with delayed offbeats, keep the intensity low.",audio_4,proposed,hiphop,swung,soft,"pattern_9_110.0bpm_prompt_Give_this_a_hiphop_groove_with_delayed_offbeats,_keep_the_intensity_low..mp3"

@@ -1,0 +1,40 @@
+{
+  "analysis": "final Text2Groove mixed-effects model",
+  "conditional_contrast_p_adjustment": "Holm within outcome and factor level across proposed-vs-comparator contrasts",
+  "data_directory": "/Users/adrianlam/Desktop/QMUL/Research Project/Text2Groove Study/submission/mixed_effects_analysis",
+  "estimation": "maximum likelihood",
+  "generated_utc": "2026-08-17T22:21:15.963211+00:00",
+  "interaction_p_adjustment": "Holm within outcome across three factors",
+  "interaction_test": "likelihood-ratio test against reduced base model",
+  "participant_count": 12,
+  "participants": [
+    "005",
+    "006",
+    "013",
+    "014",
+    "016",
+    "021",
+    "023",
+    "025",
+    "026",
+    "027",
+    "028",
+    "030"
+  ],
+  "pattern_count": 20,
+  "prompt_count": 134,
+  "prompts_observed_once": 125,
+  "random_effects": [
+    "participant",
+    "pattern"
+  ],
+  "rating_rows": 1152,
+  "removed_random_effect": "participant_trial",
+  "rows_per_outcome": {
+    "human_likeness": 576,
+    "prompt_match": 576
+  },
+  "trial_count": 144,
+  "trial_order_mean": 6.5,
+  "trial_order_population_sd": 3.452052529534663
+}
